@@ -4,4 +4,4 @@
 
 import re
 
-print(sum([int(i) for i in re.findall('[0-9]+', open('regex_sum_198340.txt').read().replace('\n', ''))]))
+print(sum([int(i) for i in re.findall('[0-9]+', open('regex_sum_198340.txt').read())]))
