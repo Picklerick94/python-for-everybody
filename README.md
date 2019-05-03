@@ -1,2 +1,2 @@
-# python_for_everybody
+# python for everybody
 coursera python for everybody exercises
