@@ -1,0 +1,43 @@
+title_en, title_cn, day_num, start_time, end_time, bookable
+Piloxing , 搏击健身操（进阶）,0,18:30,19:30,False
+Sexy Back , 性感美背,0,19:00,20:00,True
+芭蕾拉伸 , Ballet Stretch,0,20:00,21:00,True
+Super Core , 完美人鱼线,0,20:15,21:15,True
+Sexy Back ADV , 性感美背（进阶）,0,11:30,12:30,False
+Super Butt , 蜜桃翘臀,0,12:45,13:45,False
+Super Butt , 蜜桃翘臀,1,11:30,12:30,True
+Super Core ADV , 完美人鱼线（进阶）,1,12:45,13:45,True
+SMF Body , 全身塑形,1,18:45,19:45,True
+Aerial Fitness , 空中塑形,1,19:00,20:00,False
+Zumba , 尊巴燃脂舞,1,20:00,21:00,True
+线上团课 Online Course - 完美人鱼线 Super Core,线上团课 Online Course - 完美人鱼线 Super Core,1,20:00,21:00,True
+Yin Yoga／阴瑜伽,Yin Yoga／阴瑜伽,1,20:15,21:15,True
+Aerial Fitness , 空中塑形,2,11:30,12:30,False
+Slimming Yoga , 纤体瑜伽,2,12:45,13:45,True
+KIDS SUMMER CAMP , 儿童夏令营,2,14:30,15:30,True
+KIDS SUMMER CAMP , 儿童夏令营,2,15:45,16:45,True
+Sexy Jazz , 性感爵士,2,18:30,19:30,False
+Super Core , 完美人鱼线,2,19:00,20:00,True
+私人团课包场 Private Group Class,私人团课包场 Private Group Class,2,20:00,21:00,True
+Super Butt ADV , 蜜桃翘臀（进阶）,2,20:15,21:15,True
+线上课程 Online Course - 纤体瑜伽SlimmingYoga,线上课程 Online Course - 纤体瑜伽SlimmingYoga,3,07:00,08:00,True
+SMF Body ADV , 全身塑形（进阶）,3,11:30,12:30,True
+Zumba , 尊巴燃脂舞,3,12:45,13:45,True
+Sexy Back , 性感美背,3,18:45,19:45,True
+Zumba Toning , 尊巴塑形,3,19:00,20:00,True
+Super Butt , 蜜桃翘臀,3,20:00,21:00,True
+Twerk , 魔力电臀舞,3,20:15,21:15,True
+Super Ball , 超级平衡球,4,11:15,12:15,True
+Aerial Yoga , 空中瑜伽,4,12:30,13:30,True
+Piloxing , 搏击健身操（进阶）,4,13:45,14:45,False
+Super Core , 完美人鱼线,4,14:00,15:00,True
+芭蕾拉伸 , Ballet Stretch,4,15:00,16:00,True
+Super Butt , 蜜桃翘臀,4,16:15,17:15,True
+私人团课包场 Private Group Class,私人团课包场 Private Group Class,4,17:45,18:45,True
+SMF Body ADV , 全身塑形（进阶）,5,11:15,12:15,True
+Zumba , 尊巴燃脂舞,5,12:30,13:30,True
+Aerial Fitness , 空中塑形,5,13:45,14:45,True
+Slimming Yoga , 纤体瑜伽,5,15:00,16:00,True
+Twerk , 魔力电臀舞,5,16:15,17:15,True
+Yin Yoga／阴瑜伽,Yin Yoga／阴瑜伽,5,17:30,18:30,True
+线上团课 Online Course - 全身塑形 SMF Body,线上团课 Online Course - 全身塑形 SMF Body,5,20:00,21:00,True
