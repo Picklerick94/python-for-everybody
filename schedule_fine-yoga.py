@@ -27,9 +27,9 @@ for index in range(len(venues)):
 
 	url = 'https://api.fineyoga.com/hall/course/index/course-plan/website-list'
 	data = {
-		'end_at': '2020-08-16 23:59:59',
+		'end_at': '2020-08-23 23:59:59',
 	    'hall_id': venues[index]['shopid'],
-	    'start_at': '2020-08-10 00:00:00'
+	    'start_at': '2020-08-17 00:00:00'
 	}
 
 	data = parse.urlencode(data).encode()
